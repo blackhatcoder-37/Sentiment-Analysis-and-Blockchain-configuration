@@ -2,7 +2,7 @@
 
 ## 🏆 Award Recognition
 
-This project received the **Best Research Paper Award** at ICBCAI-2025 (2nd International Conference on Emerging Research in Blockchain and Artificial Intelligence), organized by Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai on September 17th, 2025. The research is IEEE recognized.
+This project received the **Best Research Paper Award** at ICBCAI-2025 (2nd International Conference on Emerging Research in Blockchain and Artificial Intelligence), organized by Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai on September 17th, 2025. The research is IEEE recognized.Also the proceedings are avilable regarging the research do check it out.
 
 ---
 
