@@ -208,6 +208,14 @@ If you use this work in your research, please cite:
 
 ---
 
+## 📚 Conference Proceedings
+
+**[Download ICBCAI-2025 Proceedings](./ICBCAI_Proceedings_2025.pdf)** - Complete conference proceedings including the award-winning paper on "Blockchain Powered Sentiment Analysis"
+
+This proceedings document contains the full research paper, acceptance letter, and details from the 2nd International Conference on Emerging Research in Blockchain and Artificial Intelligence.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
