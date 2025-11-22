@@ -226,9 +226,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For inquiries, collaborations, or questions regarding this project:
 - **GitHub:** [blackhatcoder-37](https://github.com/blackhatcoder-37)
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
-
 ---
 
 ## 🔗 Related Resources
